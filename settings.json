@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Lighter_Alt",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "Lighter_Alt",
+    "password": "mine275",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "MastiSmpOP.aternos.me",
+    "port": 26097,
     "version": "",
     "try-creative": false
   },
